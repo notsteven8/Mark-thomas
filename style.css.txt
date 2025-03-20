@@ -1,0 +1,104 @@
+/* Basic reset */
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+font-family: Arial, sans-serif;
+line-height: 1.6;
+background-color: #f4f4f4;
+color: #333;
+}
+
+/* Header styling */
+header {
+background-color: #333;
+color: white;
+padding: 1rem 0;
+}
+
+header .logo h1 {
+text-align: center;
+font-size: 2.5rem;
+}
+
+header nav {
+display: flex;
+justify-content: center;
+margin-top: 1rem;
+}
+
+header .nav-links {
+list-style: none;
+display: flex;
+}
+
+header .nav-links li {
+margin: 0 1rem;
+}
+
+header .nav-links a {
+color: white;
+text-decoration: none;
+font-size: 1.2rem;
+}
+
+/* Home section */
+#home {
+background-color: #2c3e50;
+color: white;
+padding: 3rem 1rem;
+text-align: center;
+}
+
+#home .intro h2 {
+font-size: 3rem;
+}
+
+/* About section */
+#about {
+padding: 2rem 1rem;
+background-color: #ecf0f1;
+}
+
+#about h2 {
+text-align: center;
+font-size: 2rem;
+margin-bottom: 1rem;
+}
+
+/* Portfolio section */
+#portfolio {
+padding: 2rem 1rem;
+background-color: #fff;
+}
+
+#portfolio h2 {
+text-align: center;
+font-size: 2rem;
+margin-bottom: 1rem;
+}
+
+.portfolio-list {
+list-style: none;
+text-align: center;
+}
+
+.portfolio-list li {
+margin: 1rem 0;
+font-size: 1.2rem;
+}
+
+/* Contact section */
+#contact {
+padding: 2rem 1rem;
+background-color: #ecf0f1;
+}
+
+#contact h2 {
+text-align: center;
+font-size: 2rem;
+margin-bottom: 1

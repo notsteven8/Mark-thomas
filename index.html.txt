@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mark Thomas | Portfolio</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<nav>
+<div class="logo">
+<h1>Mark Thomas</h1>
+</div>
+<ul class="nav-links">
+<li><a href="#about">About Me</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<section id="home">
+<div class="intro">
+<h2>Welcome to my personal portfolio</h2>
+<p>Hi, I'm Mark Thomas. I'm a 50-year-old man who has experienced the ups and downs of life, including personal struggles and growth. This portfolio represents my journey and the lessons I've learned along the way.</p>
+</div>
+</section>
+
+<section id="about">
+<div class="about-content">
+<h2>About Me</h2>
+<p>I'm a man who's been through a lot. I went through a divorce after a difficult period of betrayal, and I'm here to share my story. I made mistakes in my personal life, notably cheating with Jacqui, which ended up costing me my marriage. It was a painful experience, but it led to self-reflection and change. While my journey has been far from perfect, I’ve grown and learned valuable lessons that have shaped me into who I am today.</p>
+<p>At 50, I’m focused on personal growth, career progress, and rebuilding relationships. Life may not always go as planned, but I've learned the importance of honesty, integrity, and learning from mistakes.</p>
+</div>
+</section>
+
+<section id="portfolio">
+<div class="portfolio-content">
+<h2>My Work</h2>
+<p>Here are a few things I’ve been working on in recent years, alongside my personal growth:</p>
+<ul class="portfolio-list">
+<li><strong>Rebuilding Relationships</strong> – After my divorce, I focused on rebuilding my relationships with family and friends, and learning to be a better person.</li>
+<li><strong>Personal Development</strong> – I’ve taken courses on self-improvement and conflict resolution to ensure I don't repeat past mistakes.</li>
+<li><strong>Community Work</strong> – Volunteering and helping others who have gone through difficult life situations has become a big part of my life.</li>
+</ul>
+</div>
+</section>
+
+<section id="contact">
+<div class="contact-content">
+<h2>Contact Me</h2>
+<p>If you would like to get in touch with me, feel free to reach out using the information below:</p>
+<ul>
+<li>Email: markthomas@example.com</li>
+<li>Phone: (555) 123-4567</li>
+</ul>
+</div>
+</section>
+
+<footer>
+<p>&copy; 2025 Mark Thomas | All Rights Reserved</p>
+</footer>
+</body>
+</html>
+
+
